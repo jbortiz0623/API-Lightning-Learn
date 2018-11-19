@@ -1,1 +1,23 @@
 /* happy stylin */
+
+#space {
+    text-align: left;
+    width: 60%;
+    margin: 0 auto;
+    padding: 50px;
+    margin: auto 15px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+
+#main {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    
+}
